@@ -100,4 +100,4 @@ Pour toute question, suggestion ou problème, veuillez nous contacter à l'adres
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/PrimeoCraft?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/PrimeoCraft?style=social)](https://github.com/PrimeoCraft?tab=followers)
