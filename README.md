@@ -1,7 +1,6 @@
 # NomDuProjet
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/repo)  
-[![Licence](https://img.shields.io/badge/licence-MIT-blue)](LICENSE)  
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/username/repo)  [![Licence](https://img.shields.io/badge/licence-MIT-blue)](LICENSE)  
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/username/repo/releases)  
 [![Code Size](https://img.shields.io/github/languages/code-size/username/repo)](https://github.com/username/repo)
 
